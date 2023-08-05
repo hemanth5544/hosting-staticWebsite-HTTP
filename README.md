@@ -2,6 +2,9 @@ Static Website Hosting using HTTP
 
 This repository contains a simple implementation of hosting a static website using HTTP (Hypertext Transfer Protocol). It provides a straightforward way to serve static HTML, CSS, JavaScript, and other assets to users using a basic HTTP server.
 
+
+![image](https://github.com/hemanth5544/hosting-staticWebsite-HTTP/assets/92920794/379f60b4-57fe-4996-964f-b462a41ba9b5)
+
 Table of Contents
 Introduction
 Prerequisites
